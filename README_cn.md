@@ -7,6 +7,8 @@
 2. 数据集和复现精度
 3. 开始使用
 4. 代码结构与详细说明
+5. 复现模型超分效果
+5. 复现模型相关信息
 ```
 
 ## 1. 简介
@@ -149,7 +151,6 @@ python  tools/cal_psnr_ssim.py  --gt_dir data/Set14/GTmod12 --output_dir output_
 ├─applications                          
 ├─benchmark                        
 ├─deploy                         
-├─docs 
 ├─configs                          
 ├─data                        
 ├─output_dir                         
