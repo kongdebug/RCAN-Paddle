@@ -23,7 +23,7 @@
 
 在此非常感谢`yulunzhang、MaFuyan、joaoherrera`等人贡献的[RCAN](https://github.com)，提高了本项目的复现效率。
 
-**aistudio体验教程:** [使用PaddleGAN复现RCAN](https://aistudio.baidu.com/aistudio/projectdetail/3143865?contributionType=1&shared=1
+**aistudio体验教程:** [使用PaddleGAN复现RCAN](https://aistudio.baidu.com/aistudio/projectdetail/3143865?contributionType=1&shared=1 )
 
 
 ## 2. 数据集和复现精度
