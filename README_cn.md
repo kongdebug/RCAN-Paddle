@@ -8,7 +8,7 @@
 3. 开始使用
 4. 代码结构与详细说明
 5. 复现模型超分效果
-5. 复现模型相关信息
+6. 复现模型相关信息
 ```
 
 ## 1. 简介
@@ -23,7 +23,7 @@
 
 在此非常感谢`yulunzhang、MaFuyan、joaoherrera`等人贡献的[RCAN](https://github.com)，提高了本项目的复现效率。
 
-**aistudio体验教程:** [使用PaddleGAN复现RCAN](https://aistudio.baidu.com/aistudio/projectdetail/2878514?contributionType=1)
+**aistudio体验教程:** [使用PaddleGAN复现RCAN](https://aistudio.baidu.com/aistudio/projectdetail/3143865?contributionType=1&shared=1 )
 
 
 ## 2. 数据集和复现精度
@@ -245,6 +245,7 @@ test_tipc/
 | 框架版本 | PaddlePaddle==2.2.0 |
 | 应用场景 | 图像超分 |
 | 硬件支持 | GPU、CPU |
-| 在线体验 | [notebook](https://aistudio.baidu.com/aistudio/projectdetail/2878514?contributionType=1)|
+| 在线体验 | [notebook](https://aistudio.baidu.com/aistudio/projectdetail/3143865?contributionType=1&shared=1)|
+
 
 
